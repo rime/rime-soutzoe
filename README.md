@@ -2,7 +2,7 @@
 
 配方： ℞ **soutzoe**
 
-[Rime](http://rime.im) 蘇州吳語輸入方案
+[Rime](https://rime.im) 蘇州吳語輸入方案
 
 蘇州言話，採用 [吳語拉丁式注音法](http://input.foruto.com/wu/method.html) 拼寫
 
